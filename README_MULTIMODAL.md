@@ -28,7 +28,7 @@ A lightweight, zero-dependency, single-page web application designed for structu
 
 ## Overview
 
-**Sapiens Dataset Builder - Multimodal** operates entirely in the browser client using native Web APIs. It requires no backend server, database configuration, or build steps. All records are automatically persisted in browser `localStorage`, preventing data loss between sessions or page reloads.
+**[Sapiens Dataset Builder - Multimodal](SAPIENS_DATASET_BUILDER_MULTIMODAL.html)** operates entirely in the browser client using native Web APIs. It requires no backend server, database configuration, or build steps. All records are automatically persisted in browser `localStorage`, preventing data loss between sessions or page reloads.
 
 The application features a dark-mode cyberpunk aesthetic (pure black background, neon cyan accents, glowing borders, and smooth CSS3 keyframe animations).
 
