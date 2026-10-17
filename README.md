@@ -194,3 +194,13 @@ function escapeHTML(str) {
 <div align="center">
   <sub>A SAPIENS TECHNOLOGY® PRODUCTION</sub>
 </div>
+
+## Contributing
+
+We do not accept contributions that may result in changing the original code.
+
+Make sure you are using the appropriate version.
+
+## License
+
+This is proprietary software and its alteration and/or distribution without the developer's authorization is not permitted.
