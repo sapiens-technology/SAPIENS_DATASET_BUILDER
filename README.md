@@ -7,6 +7,12 @@ Front-end web application for creating training datasets in the Sapiens standard
 
 ---
 
+<a href="https://raw.githubusercontent.com/sapiens-technology/SAPIENS_DATASET_BUILDER/main/SAPIENS_DATASET_BUILDER.html" download="SAPIENS_DATASET_BUILDER.html">
+    Download SAPIENS Dataset Builder
+</a>
+
+---
+
 ## 📌 Table of Contents
 
 1. [Overview & Architecture](#-overview--architecture)
