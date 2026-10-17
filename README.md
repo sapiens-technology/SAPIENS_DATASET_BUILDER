@@ -3,7 +3,7 @@ Front-end web application for creating training datasets in the Sapiens standard
 
 # Sapiens Dataset Builder — Documentation
 
-**Sapiens Dataset Builder** is a self-contained, client-side web application designed for creating, inspecting, curating, and exporting paired prompt-response datasets (Input/Output). It is engineered for AI practitioners, researchers, and developers preparing fine-tuning and alignment data for Large Language Models (LLMs).
+**[Sapiens Dataset Builder](https://github.com/sapiens-technology/SAPIENS_DATASET_BUILDER/blob/main/SAPIENS_DATASET_BUILDER.html?raw=true)** is a self-contained, client-side web application designed for creating, inspecting, curating, and exporting paired prompt-response datasets (Input/Output). It is engineered for AI practitioners, researchers, and developers preparing fine-tuning and alignment data for Large Language Models (LLMs).
 
 ---
 
