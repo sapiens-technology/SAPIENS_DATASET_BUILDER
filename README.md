@@ -189,6 +189,8 @@ function escapeHTML(str) {
 }
 ```
 
+Click [here](README_MULTIMODAL.md) to access the multimodal version.
+
 ---
 
 <div align="center">
